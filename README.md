@@ -3,3 +3,5 @@
 
 ## Ya BOI
 Lol this is the template repl gave me. I am a gamer/coder, who does good in school. Very good at Math and smart. YEEEET. Check me out at [my website](https://sanjaay.weebly.com) (which i don't update)
+
+Star 🌟 this repo if you liked it and fork 🍴 this repo if you want to create it yourself. Change the name to your name and you are set.
