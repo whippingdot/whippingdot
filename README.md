@@ -6,7 +6,7 @@ I’m currently working on [Chips-game](https://github.com/whippingdot/Chips-gam
 
 ## My stats:
 [![Whippingdot's github stats](https://github-readme-stats.vercel.app/api?username=Whippingdot&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whippingdot&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whippingdot&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Note: I spent a long time looking for these stats, so just go [here](https://github.com/anuraghazra/github-readme-stats#features) and follow the instructions to get your stats.
 
