@@ -2,7 +2,7 @@
 
 This is me:
 
-![My prof pic](/Extremely-small-ProfPic.png)
+![My PFP](https://user-images.githubusercontent.com/64354499/109452869-b49f4b00-7a76-11eb-8fb4-80448d82e964.png)
 
 ## ![Visits Badge](https://badges.pufler.dev/visits/whippingdot/whippingdot) ![Years I have been in GitHub](https://badges.pufler.dev/years/whippingdot) ![Badge for last updated](https://badges.pufler.dev/updated/whippingdot/whippingdot) ![Commits This Month](https://badges.pufler.dev/commits/monthly/whippingdot)
 
