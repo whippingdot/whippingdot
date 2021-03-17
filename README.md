@@ -2,9 +2,10 @@
 
 This is me:
 
-![My PFP](https://user-images.githubusercontent.com/64354499/109452869-b49f4b00-7a76-11eb-8fb4-80448d82e964.png)
+![Moi PFP](https://user-images.githubusercontent.com/64354499/111429939-aeb89380-871f-11eb-909d-051bd73e4b4e.png)
 
-## ![Visits Badge](https://komarev.com/ghpvc/?username=whippingdot&color=orange) ![Years I have been in GitHub](https://badges.pufler.dev/years/whippingdot) ![Badge for last updated](https://badges.pufler.dev/updated/whippingdot/whippingdot) ![Commits This Month](https://badges.pufler.dev/commits/monthly/whippingdot)
+## ![Visits Badge](https://komarev![rsz_betterpfp](https://user-images.githubusercontent.com/64354499/111429897-9fd1e100-871f-11eb-8c68-8d05ded0718d.png)
+.com/ghpvc/?username=whippingdot&color=orange) ![Years I have been in GitHub](https://badges.pufler.dev/years/whippingdot) ![Badge for last updated](https://badges.pufler.dev/updated/whippingdot/whippingdot) ![Commits This Month](https://badges.pufler.dev/commits/monthly/whippingdot)
 
 I am a gamer/coder, meaning I like gaming, I like coding, and I want to be a game developer. I am a simple person, and maybe annoying too, though I hope not. I found GitHub not too long ago, but I forgot how. I ask many questions(meaning **many**) so try not to get **_too_** irritated. I also like usually browse the web for productivity tips and apps. BTW I know English, and though it isn't my mother tongue, I was born in USA and lived there for 8 years so 🎉🎉LES GOOO!
 
