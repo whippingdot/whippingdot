@@ -31,4 +31,4 @@ Hav er eww. ai huup yewww ar~~t~~ guude. took loiter. baeeeee
 
 ## Long Metrics
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/whippingdot/whippingdot/blob/main/github-metrics.svg)
