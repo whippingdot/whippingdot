@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: lowlighter/metrics 😁
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          user: whippingdot
           token: ${{ secrets.LOWLIGHTER_METRICS }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
