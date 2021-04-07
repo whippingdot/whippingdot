@@ -4,7 +4,8 @@ This is me:
 
 ![Moi PFP](https://user-images.githubusercontent.com/64354499/111429939-aeb89380-871f-11eb-909d-051bd73e4b4e.png)
 
-  <h2> <img alt="Visits Badge" src="https://myviewcounts.rayhanadev.repl.co/viewcount/Whippingdots.png"> </h2>
+## Stats
+  <h2> <img alt="Visits Badge" src="https://myviewcounts.rayhanadev.repl.co/viewcount/Whippingdots.png"> </h2> reset from 120
   <h2> <img alt="Joined" src="https://github-profile-trophy.vercel.app/?username=Whippingdot&theme=darkhub&title=Joined2020&no-frame=true"> </h2>
   <h2> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Whippingdot&theme=darkhub&title=Commit,Followers,Issues,Stars,PullRequest,Repositories&column=3&row=2&margin-w=10&margin-h=10&no-frame=true"> </h2>
 
@@ -19,8 +20,7 @@ I created a GitHub organization for people who use [replit](https://replit.com)(
 [![Whippingdot's github stats](https://github-readme-stats.vercel.app/api?username=Whippingdot&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whippingdot&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Note: I spent a long time looking for these stats, so just go [here](https://github.com/anuraghazra/github-readme-stats) and follow the instructions to get your stats. Trophy stats are found [here](https://github.com/ryo-ma/github-profile-trophy).
-</style
+Note: I spent a long time looking for [these stats](https://github.com/whippingdot/whippingdot#My-stats), so just go [here](https://github.com/anuraghazra/github-readme-stats) and follow the instructions to get your stats. [Trophy stats](https://github.com/whippingdot/whippingdot#Stats) are found [here](https://github.com/ryo-ma/github-profile-trophy). The [LONG METRICS](https://github.com/whippingdot/whippingdot#Long-Metrics) found at the bottom are found [here](https://github.com/lowlighter/metrics)
 
 ## Other things...
 
@@ -28,3 +28,7 @@ i found coding using the Kano PC, i am still learning coding ~~i am trash~~ i wo
 
 ## A para in moi lang
 Hav er eww. ai huup yewww ar~~t~~ guude. took loiter. baeeeee
+
+## Long Metrics
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
