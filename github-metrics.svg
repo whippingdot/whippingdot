@@ -1225,7 +1225,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            357 issue comments
+            359 issue comments
           </div>
                     </section>
                     <section>
@@ -3505,6 +3505,42 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#25 ENHANCEMENT: C++</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by X-Developer-Studios in <span class="repo">whippingdot/Language-Tutorials</span></div>
+                                    <div class="comment">Hey, some people recommended not using 'using namespace std;' cause they don't prefer it. The reason why is because it imports lots of functions you don't need, meaning that when you create a function the name might be the same as one the namespace imported therefore creating confusion and asking yourself why your function isn't working.
+I started following this, but you don't have to. Just note - we will not include that in the tutorial. I think I already gave a shorter version of this explanation in the file...
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#3 no u</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by firefish111 in <span class="repo">whippingdot/whippingdot</span></div>
+                                    <div class="comment">OH NOES, MY BEST FRIEND @thequackyduck IN JAIL!!
+les goooo
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -3555,45 +3591,6 @@
                                     <div>opened by firefish111 in <span class="repo">whippingdot/whippingdot</span></div>
                                     <div class="comment">you are a clone of head, but a better version (don't tell him that)
 also this is like the only reason I am making you a mod, it would be nice to have you as one.
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#3 no u</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by firefish111 in <span class="repo">whippingdot/whippingdot</span></div>
-                                    <div class="comment">wut
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#9452 History Graph in comparison view</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by hottestchilipepper in <span class="repo">desktop/desktop</span></div>
-                                    <div class="comment"><i>
-this image is taken from VS Code git graph extension...
-if your a vscode user,, u can use this extension instead..
-
-</i>
-We know that, but we want it implemented in GitHub Desktop. Not everyone uses VSCode, and this is a thread about implementing the feature in GitHub Desktop so...
 </div>
                                 </div>
                             </section>
@@ -3910,7 +3907,7 @@ We know that, but we want it implemented in GitHub Desktop. Not everyone uses VS
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.922353850916405 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.930635614060119 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4194,7 +4191,7 @@ We know that, but we want it implemented in GitHub Desktop. Not everyone uses VS
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sat, 26 Jun 2021 06:13:05  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 26 Jun 2021 07:09:15  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
