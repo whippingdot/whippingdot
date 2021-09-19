@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2235" class="">
     <defs>
         <style/>
     </defs>
@@ -1332,7 +1332,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            418 issue comments
+            424 issue comments
           </div>
                     </section>
                     <section>
@@ -1387,7 +1387,7 @@
             </div>
                                 <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              5.49 MB used
+              5.57 MB used
             </div>
                             </section>
                             <section>
@@ -3585,12 +3585,14 @@
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Commented on <span class="issue">#606 Bold &amp; Italics not working</span>
+                      Commented on <span class="issue">#605 Theme Options</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by whippingdot in <span class="repo">Binaryify/OneDark-Pro</span></div>
-                                    <div class="comment">installed it, reloaded editor multiple times, yet I don't seem to have bold or anything still.
+                                    <div class="comment">Ok, so first yes I admit I like OneDark's syntax highlighting more than other themes. If dynamic loading theme files saves space on the PC, then leave the built-in themes otherwise remove them. If it does save space, then also try thinking of creative names for each theme, like 'One Dark Pro Ocean' instead of 'One Dark Pro Starfall Ocean'.
+BTW if you do remove the other built-in themes and add the tutorial on how to combine themes, try to keep it upfront or open a file that tells them how to when installing the theme, so people are aware that that is an option.
+P.S. An unnecessary question but are you British or American - do you know English well?
 </div>
                                 </div>
                             </section>
@@ -3607,7 +3609,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by whippingdot in <span class="repo">Binaryify/OneDark-Pro</span></div>
-                                    <div class="comment">@Binaryify hey, I downloaded it and added it. Where can I try the ocean theme? Also did you use the color scheme of that (like create your own custom version of it) or did you just use the same CSS as theirs?
+                                    <div class="comment">yeah...but something I mentioned in the first comment of this issue thread was that I think the other built in themes should be removed - don't they take up unnecessary space?
 </div>
                                 </div>
                             </section>
@@ -3619,13 +3621,13 @@
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Commented on <span class="issue">#2 Repo Files and Folders</span>
+                      Commented on <span class="issue">#606 Bold &amp; Italics not working</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by BD103 in <span class="repo">BD103/GudHub</span></div>
-                                    <div class="comment">oh ok... Add me back next month k
-Also ima get discord in like 8 days so tell me your discord ID or whatever then so i can talk to you there
+                                    <div>opened by whippingdot in <span class="repo">Binaryify/OneDark-Pro</span></div>
+                                    <div class="comment">No wait it works now, the bold is very hard to see so I didn't notice. NOICE!
+BTW it is hard to see for me cause i have a small font size lol.
 </div>
                                 </div>
                             </section>
@@ -3634,15 +3636,16 @@ Also ima get discord in like 8 days so tell me your discord ID or whatever then 
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Opened <span class="issue">#606 Bold &amp; Italics not working</span>
+                      Commented on <span class="issue">#605 Theme Options</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">Binaryify/OneDark-Pro</span></div>
+                                    <div>opened by whippingdot in <span class="repo">Binaryify/OneDark-Pro</span></div>
+                                    <div class="comment">Also this would make it so the default theme wont have to be one dark pro and you won't have to go deep in to the settings to make ocean work. Just add it in the 'Preferences: Color Themes' list of themes in vs code
+</div>
                                 </div>
                             </section>
                         </div>
@@ -3650,15 +3653,18 @@ Also ima get discord in like 8 days so tell me your discord ID or whatever then 
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Opened <span class="issue">#605 Theme Options</span>
+                      Commented on <span class="issue">#605 Theme Options</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">Binaryify/OneDark-Pro</span></div>
+                                    <div>opened by whippingdot in <span class="repo">Binaryify/OneDark-Pro</span></div>
+                                    <div class="comment">Oh wait @Binaryify I just saw the comment saying you have to change the default theme to one dark pro too - it is working now
+Thanks!
+BTW could you call this 'One Dark Pro Ocean' and add it as one of the default options too? That might attract more people to that specific option and they could stick with the theme
+</div>
                                 </div>
                             </section>
                         </div>
@@ -3677,28 +3683,28 @@ Also ima get discord in like 8 days so tell me your discord ID or whatever then 
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="51.94736842105263 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="54.83333333333333 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="173.1578947368421 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="182.7777777777778 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.31578947368421 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.277777777777775 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👎</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="86.57894736842105 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="73.1111111111111 329"/>
                                         <text x="60" y="60" dominant-baseline="central">😄</text>
                                     </svg>
                                 </div>
@@ -3958,7 +3964,7 @@ Also ima get discord in like 8 days so tell me your discord ID or whatever then 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.04060660372273 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.049628720906266 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4341,7 +4347,7 @@ Also ima get discord in like 8 days so tell me your discord ID or whatever then 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19/09/2021, 14:09  with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 19/09/2021, 15:11  with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
