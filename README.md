@@ -24,11 +24,21 @@ Note: I spent a long time looking for [these stats](https://github.com/whippingd
 
 ## Other things...
 
-i found coding using the Kano PC, i am still learning coding ~~i am trash~~ i would say i am moderate. i have not yet made a good repl talk share post of a game **i have made myself** ~~i leach off of other peoples awesomeness~~. i would say i got friends ~~but they would say they don't~~. i created my own slang ~~which takes longer to write than normal english~~ and i am going to create a transalator for it ~~but i still haven't started the 'translating' part lul~~. I love strikethru and i hope my dad allows me to use discord cause i don't have it for now. contact me on replit by @ mentioning me ~~24/7~~. I hope repl talk EVOLVES. thanks @amasad for adding new updates regurarly ~~from recently~~. oi really appreciate it
+I discovered coding first when I got the Kano PC. It was a PC you could build and then use the Rasberry PI operating system on. Since then I started coding a lot and have improved considerably, being knowledgeable in HTML, CSS, JS, Nodejs, C++, and Python - but not excelent in those languages. I am still learning coding as I have a lot to improve. My goal as a developer is to do game development. I still think that goal is far off though as I am yet to learn C# or Unity...
 
-## A para in moi lang
-Hav er eww. ai huup yewww ar~~t~~ guude. took loiter. baeeeee
+## Contact
+
+Contact me on replit by @ mentioning me. I also got discord recently, so you can find me by my tag 'Whippingdot#9819', but I currently do not allow friend requests and only I can give them for privacy reasons. You can contact me in an issue here if you want to talk to me on discord.
+
 
 ## Long Metrics
 
 ![Metrics](https://github.com/whippingdot/whippingdot/blob/main/github-metrics.svg)
+
+
+
+## Kept for nostalgia
+
+### A para in moi lang
+
+Hav er eww. ai huup yewww ar~~t~~ guude. took loiter. baeeeee
