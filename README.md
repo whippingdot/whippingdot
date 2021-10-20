@@ -1,10 +1,11 @@
-# HOI
+# Hey!
 
 This is me:
 
-![Moi PFP](https://user-images.githubusercontent.com/64354499/111429939-aeb89380-871f-11eb-909d-051bd73e4b4e.png)
+![PFP](LivelyPFP-Saturated-Small.png)
 
 ## Stats
+
   <h2> <img alt="Visits Badge" src="https://myviewcounts.rayhanadev.repl.co/viewcount/Whippingdots.png"> </h2> reset from 120
   <h2> <img alt="Joined" src="https://github-profile-trophy.vercel.app/?username=Whippingdot&theme=darkhub&title=Joined2020&no-frame=true"> </h2>
   <h2> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Whippingdot&theme=darkhub&title=Commit,Followers,Issues,Stars,PullRequest,Repositories&column=3&row=2&margin-w=10&margin-h=10&no-frame=true"> </h2>
@@ -30,12 +31,9 @@ I discovered coding first when I got the Kano PC. It was a PC you could build an
 
 Contact me on replit by @ mentioning me. I also got discord recently, so you can find me by my tag 'Whippingdot#9819', but I currently do not allow friend requests and only I can give them for privacy reasons. You can contact me in an issue here if you want to talk to me on discord.
 
-
 ## Long Metrics
 
 ![Metrics](https://github.com/whippingdot/whippingdot/blob/main/github-metrics.svg)
-
-
 
 ## Kept for nostalgia
 
