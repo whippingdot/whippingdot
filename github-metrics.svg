@@ -2747,7 +2747,7 @@ In links, the first one is a wikilink which has plain text, the second is a link
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.27m out of 82m users</span>
+                                    <span class="gh">ranked 6.27m out of 83m users</span>
                                 </div>
                                 <div class="text">Published 6 public repositories</div>
                             </div>
@@ -2799,7 +2799,7 @@ In links, the first one is a wikilink which has plain text, the second is a link
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 191k out of 82m users</span>
+                                    <span class="gh">ranked 191k out of 83m users</span>
                                 </div>
                                 <div class="text">Followed by 38 users</div>
                             </div>
@@ -3162,7 +3162,7 @@ In links, the first one is a wikilink which has plain text, the second is a link
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2022, 06:14:59  with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 07:12:04  with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
