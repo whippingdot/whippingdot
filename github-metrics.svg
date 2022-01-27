@@ -2964,7 +2964,7 @@ I am using the WYSIWYG editor btw
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.23m out of 277m repositories</span>
+                                    <span class="gh">ranked 1.23m out of 278m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 6 times</div>
                             </div>
@@ -3043,7 +3043,7 @@ I am using the WYSIWYG editor btw
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.28m out of 277m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 278m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 11 stars</div>
                             </div>
@@ -3170,7 +3170,7 @@ I am using the WYSIWYG editor btw
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2022, 06:13:59  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 07:11:37  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
