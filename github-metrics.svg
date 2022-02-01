@@ -2797,7 +2797,7 @@ I am using the WYSIWYG editor btw
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 183k out of 84m users</span>
+                                    <span class="gh">ranked 184k out of 84m users</span>
                                 </div>
                                 <div class="text">Followed by 40 users</div>
                             </div>
@@ -3160,7 +3160,7 @@ I am using the WYSIWYG editor btw
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Feb 2022, 12:18:11  with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 1 Feb 2022, 13:14:54  with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
