@@ -1,20 +1,33 @@
 # Hey!
 
-This is me:
+I am Whippingdot, or maybe whippingdot or whip dot on several other websites. My real name is Sanjaay, and I like to code! I also play several video games, and have aspirations of creating a game development company in the future. I do talk a lot, sometimes make false promises (sorry), and get addicted to the internet with useless stuff. I am still in school too.
 
-![PFP](LivelyPFP-Saturated-Small.png)
+## Checklist of Things Learnt
 
-## Stats
+- [X] Python Basics
+- [X] (I guess) Python Advanced
+- [X] C++ Basics
+- [ ] C++ Advanced
+- [X] HTML Basics
+- [X] HTML Advanced
+- [X] CSS Basics
+- [ ] CSS Advanced
+- [X] JS Basics
+- [ ] JS Advanced
+- [ ] Nodejs Basics
+- [ ] Noejs Advanced
+- [ ] C# Basics
+- [ ] C# Advanced
+- [ ] Unity Basics
+- [ ] Unity Advanced (actually using C#)
+- [ ] Unreal Engine Basics
+- [ ] Unreal Engine Advanced (actually using C++)
 
-  <h2> <img alt="Visits Badge" src="https://myviewcounts.rayhanadev.repl.co/viewcount/Whippingdots.png"> </h2> reset from 120
-  <h2> <img alt="Joined" src="https://github-profile-trophy.vercel.app/?username=Whippingdot&theme=darkhub&title=Joined2020&no-frame=true"> </h2>
-  <h2> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Whippingdot&theme=darkhub&title=Commit,Followers,Issues,Stars,PullRequest,Repositories&column=3&row=2&margin-w=10&margin-h=10&no-frame=true"> </h2>
-
-I am a gamer/coder, meaning I like gaming, I like coding, and I want to be a game developer. I am a simple person, and maybe annoying too, though I hope not. I found GitHub not too long ago, but I forgot how. I ask many questions(meaning **many**) so try not to get **_too_** irritated. I also like usually browse the web for productivity tips and apps. BTW I know English, even though it isn't my mother tongue. I was born in USA and lived there for 8 years so 🎉🎉LES GOOO!
+I hope to finish at least one project in Unreal by the end of the year. I have slowly stopped doing Web Design as it takes up unecessary time when I want to proceed with Game dev, and not Web dev. I still learnt those skills as they are useful in making websites, and potentially could be useful in the future.
 
 ## Organization
 
-I created a GitHub organization for people who use [replit](https://replit.com)(a browser IDE kind of website) [here](https://github.com/Repl-it-Coders). We have 27 members(most members are private) and so I would say I did a good job advertising it and bringing people in. I really have to thank [replit](https://replit.com) though and this is the least I could do for them!
+I created a GitHub organization for people who use [replit](https://replit.com)(a browser IDE kind of website) [here](https://github.com/Repl-it-Coders). It died a long time ago, but I decided to revive it recently (wasn't able to do much progress as I have examinations). I might also do a rebrand to invite more people into the organization.
 
 ## My stats:
 
@@ -25,18 +38,12 @@ Note: I spent a long time looking for [these stats](https://github.com/whippingd
 
 ## Other things...
 
-I discovered coding first when I got the Kano PC. It was a PC you could build and then use the Rasberry PI operating system on. Since then I started coding a lot and have improved considerably, being knowledgeable in HTML, CSS, JS, Nodejs, C++, and Python - but not excelent in those languages. I am still learning coding as I have a lot to improve. My goal as a developer is to do game development. I still think that goal is far off though as I am yet to learn C# or Unity...
+I discovered coding first when I got the Kano PC. It was a PC you could build and then use the Rasberry PI operating system on. Since then I found CodeAcademy, and then found replit. CodeAcademy helped me learn the basics of Python and C++, and was really useful. Because my dad works in Microsoft, I was able to get LinkedIn Learning for free too and was able to use that to continue with my coding learning journey. Replit was useful at first for creating all sorts of programs, but I shifted to VSCode soon after, and got really into it. A few months after that I learnt Vim and used that in VSCode too. I tried out VS for a while but it was too complicated and I didn't like the interace so I gave up on it. I still use replit today for creating and developing websites as hosting websites on replit is really simple. I also really like the community share feature as you can share your projects with the public and see user feedback.
 
 ## Contact
 
-Contact me on replit by @ mentioning me. I also got discord recently, so you can find me by my tag 'Whippingdot#9819', but I currently do not allow friend requests and only I can give them for privacy reasons. You can contact me in an issue here if you want to talk to me on discord.
+Contact me on replit by @ mentioning me. I also got discord recently, so you can find me by my tag 'Whippingdot#9819', but I currently do not allow friend requests and only I can give them for privacy reasons. You can contact me in an issue on this repo if you want to talk to me on discord.
 
 ## Long Metrics
 
 ![Metrics](https://github.com/whippingdot/whippingdot/blob/main/github-metrics.svg)
-
-## Kept for nostalgia
-
-### A para in moi lang
-
-Hav er eww. ai huup yewww ar~~t~~ guude. took loiter. baeeeee
