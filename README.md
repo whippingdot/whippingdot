@@ -15,7 +15,7 @@ I am Whippingdot, or maybe whippingdot or whip dot on several other websites. My
 - [X] JS Basics
 - [ ] JS Advanced
 - [ ] Nodejs Basics
-- [ ] Noejs Advanced
+- [ ] Nodejs Advanced
 - [ ] C# Basics
 - [ ] C# Advanced
 - [ ] Unity Basics
