@@ -2750,7 +2750,7 @@ I think transparency might be broken for light mode? Or maybe this is how it alw
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.55m out of 87m users</span>
+                                    <span class="gh">ranked 6.56m out of 87m users</span>
                                 </div>
                                 <div class="text">Published 6 public repositories</div>
                             </div>
@@ -3165,7 +3165,7 @@ I think transparency might be broken for light mode? Or maybe this is how it alw
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2022, 12:21:23  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 17 Mar 2022, 13:19:58  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
