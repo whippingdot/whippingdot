@@ -2791,7 +2791,7 @@ Also there will be some bad people being invited.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.99m out of 90m users</span>
+                                    <span class="gh">ranked 5.99m out of 91m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -2843,7 +2843,7 @@ Also there will be some bad people being invited.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 155k out of 90m users</span>
+                                    <span class="gh">ranked 155k out of 91m users</span>
                                 </div>
                                 <div class="text">Followed by 49 users</div>
                             </div>
@@ -3129,7 +3129,7 @@ Also there will be some bad people being invited.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2022, 06:17:16  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 07:12:52  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
