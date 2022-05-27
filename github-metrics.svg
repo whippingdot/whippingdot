@@ -2979,7 +2979,7 @@ P.S. Comments are now very scrambled and probably don't make sense. Need to redo
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.48m out of 308m repositories</span>
+                                    <span class="gh">ranked 1.48m out of 309m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -3017,7 +3017,7 @@ P.S. Comments are now very scrambled and probably don't make sense. Need to redo
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.24m out of 308m repositories</span>
+                                    <span class="gh">ranked 1.24m out of 309m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 12 stars</div>
                             </div>
@@ -3108,7 +3108,7 @@ P.S. Comments are now very scrambled and probably don't make sense. Need to redo
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 May 2022, 06:17:48  with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 May 2022, 07:13:16  with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
