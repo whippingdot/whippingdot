@@ -2780,7 +2780,7 @@ If the motion is really what bothers you, consider turning on reduced motion on 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 6.20m out of 94m users</span>
+                                    <span class="gh">ranked 6.21m out of 94m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -3118,7 +3118,7 @@ If the motion is really what bothers you, consider turning on reduced motion on 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2022, 12:26:58  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 13:41:37  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
