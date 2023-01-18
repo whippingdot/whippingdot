@@ -31,8 +31,8 @@ I created a GitHub organization for people who use [replit](https://replit.com)(
 
 ## My stats:
 
-[![Whippingdot's github stats](https://github-readme-stats.vercel.app/api?username=Whippingdot&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whippingdot&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Whippingdot's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Whippingdot&count_private=true&show_icons=true&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Whippingdot&langs_count=10&hide_border=true&text_color=613F75&title_color=7FEFBD&icon_color=574AE2&bg_color=111344&cache_seconds=86400&local=en&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Note: I spent a long time looking for [these stats](https://github.com/whippingdot/whippingdot#My-stats), so just go [here](https://github.com/anuraghazra/github-readme-stats) and follow the instructions to get your stats. [Trophy stats](https://github.com/whippingdot/whippingdot#Stats) are found [here](https://github.com/ryo-ma/github-profile-trophy). The [LONG METRICS](https://github.com/whippingdot/whippingdot#Long-Metrics) found at the bottom are found [here](https://github.com/lowlighter/metrics)
 
