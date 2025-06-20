@@ -4,7 +4,7 @@ Hi, I am Sanjaay, a.k.a whippingdot. I love to code and also love playing video 
 
 ## Projects
 
-- [Cricket-Attax](https://github.com/whippingdot/Cricket-Attax) - This is a cricket simulator with a lot of features to make it as realistic and intuitive as possible! Possibly my only major project so far, I am still working on this right now 😓
+- [Cricket-Attax](https://github.com/whippingdot/Cricket-Attax) - This is a cricket simulator with almost all features to make it as realistic as possible! It has an implemented draft system with special values for every batsman and bowler, making every single player unique. This provides strategy to the sim and makes it more fun to run through - you can learn the meta and get good.
 - [Language-Tutorials](https://github.com/whippingdot/Language-Tutorials) - An old project of mine, this was my attempt at making tutorials for a variety of programming languages (and markdown) I am familiar with. I worked with several friends of mine to work on this but never was able to get too far ☹️
 
 ## Contact
